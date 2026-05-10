@@ -1,0 +1,1 @@
+# Automated-Clash-Clearance-and-Contact-Analysis-for-CAD-Assemblies-CATIA-V5-Python-
